@@ -4,6 +4,8 @@ For each of the three sources listed, find any and all available documentation f
 
 Sources: - Canadian General Social Survey on Giving, Volunteering, and Participating, 2018 (cycle 33), conducted by Statistics Canada - Canadian Election Study Online Survey, 2019, conducted by Laura Stephenson, Allison Harell, Daniel Rubenson and Peter Loewen - Trophic niche flexibility in Glossophaga soricina: how nectar seeker sneaks an insect snack, conducted by Elizabeth Clare et al.
 
+**Answers can be found on Assignment4.docx**
+
 |                                                       | Canadian General Social Survey on Giving, Volunteering, and Participating, 2018 (cycle 33) | Canadian Election Study Online Survey, 2019 | Trophic niche flexibility in Glossophaga soricina: how nectar seeker sneaks an insect snack |
 |----------------|:--------------------|----------------|---------------------|
 | Sample type                                           |                                                                                            |                                             |                                                                                             |

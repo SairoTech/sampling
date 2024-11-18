@@ -16,30 +16,55 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `1`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+Ans : The purpose of this survey is to understand the reasons behind the turnover rate in entry and lower level positions in the past few months and identify potential areas for improvement to enhance customer satisfaction and reduce employee retention.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Ans :
+Target population : All employees in entry and lower level positions at the company who are in notice period/recently submitted resignation.
+Sampling frame : All employees in entry and lower level roles at a specific location/province of the company who are currently in their notice period or have recently submmitted resignation.
+Sampling Units : All employees in entry- and lower-level roles who are currently in their notice period and available to respond to the survey at the specific branch location.
+Observational Units : All individual employee in their notice period/submitted resignation who actually participates in the survey
+
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. What is your department and job position? 
+
+2. Are you satisfied with the work you do?  
+    a. Very Satisfied  b. Somewhat satisfied c. Neutral d. Not so much e. Not at all.
+
+3. Did you feel valued and appreciated and receive recognition during your time at the company?If no, please explain briefly.
+    a. Yes b. No
+
+4. Were you able to build an open channel to communicate with your manager about the challenges you faced at work?
+    a. Always  b. Often  c. Sometimes  d. Rarely  e. Never
+
+5. I am fairly compensated for my work.
+    a.Strongly agree b.Agree  c.Neutral  d.Disagree  e.Strongly disagree
+    
+6. What were the main factors that contributed to your decision to leave the company? Please provide details.
+
+
+7. How would you rate the management and leadership in the company?
+    a.Excellent  b.Good  c.Average  d.Poor  e.Very Poor
+
+8. Would you consider returning to work at this company in the future?
+    a. Yes  b.No  c.Maybe
+
+9. Have you been offered enough opportunities/resources to develop your skills that can assist with your career progression in the company?
+    a. Strongly agree b. Disagree c. Neutral d. Agree e. Strongly disagree
+
+10. Does your role align with your skill set? 
+    a. Yes  b.No  c.Maybe
+
+
 ```
 
 ## Rubric
